@@ -14,4 +14,5 @@ Proceso sin_titulo
 			Escribir ge;
 		FinSi
 		ge<- ge+1;
+	FinMientras
 FinProceso
