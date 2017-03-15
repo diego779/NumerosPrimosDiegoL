@@ -10,4 +10,8 @@ Proceso sin_titulo
 			FinSi
 			nu<- nu+1;
 		FinMientras
+		Si c=2 Entonces
+			Escribir ge;
+		FinSi
+		ge<- ge+1;
 FinProceso
